@@ -50,14 +50,13 @@ The project consists of two main components:
    cd multi-modal-ui
    ```
 
-2. Install CUDA 
+2. Install CUDA
 
 3. Install dependencies:
 
    ```
    pip install -r requirements.txt
    ```
-
 
 ## Usage
 
@@ -117,7 +116,7 @@ The project consists of two main components:
 
 ## License
 
-[Add license information]
+Apache License 2.0
 
 ## Acknowledgements
 
