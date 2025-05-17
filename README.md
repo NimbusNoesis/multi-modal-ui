@@ -1,6 +1,6 @@
-# Phi-4 Multimodal Interface
+# Multimodal Interface
 
-This project provides a web interface and API for Microsoft's Phi-4 multimodal model, allowing users to interact with the model through a user-friendly Streamlit application.
+This project provides a web interface and API for locally hosted multimodal LLMs (ollama), allowing users to interact with the model through a user-friendly Streamlit application.
 
 ## Features
 
